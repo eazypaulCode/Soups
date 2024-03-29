@@ -22,6 +22,7 @@ class ConfigLoader {
             file.createNewFile()
             config = SoupsConfig()
             save()
+            return
         }
 
         config = try {
