@@ -19,7 +19,7 @@ dependencies {
     implementation("com.charleskorn.kaml:kaml:0.58.0")
 
     paperweight.paperDevBundle("1.20.4-R0.1-SNAPSHOT")
-    implementation("de.miraculixx:kpaper:1.1.2")
+    implementation("de.miraculixx:kpaper:1.2.1")
 
     implementation("dev.jorel:commandapi-bukkit-shade:9.3.0")
     implementation("dev.jorel:commandapi-bukkit-kotlin:9.3.0")
