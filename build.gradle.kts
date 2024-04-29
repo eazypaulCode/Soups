@@ -16,7 +16,7 @@ repositories {
 }
 
 dependencies {
-    implementation("com.charleskorn.kaml:kaml:0.58.0")
+    implementation("com.charleskorn.kaml:kaml:0.59.0")
 
     paperweight.paperDevBundle("1.20.4-R0.1-SNAPSHOT")
     implementation("de.miraculixx:kpaper:1.2.1")
