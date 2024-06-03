@@ -22,7 +22,7 @@ dependencies {
     implementation("de.miraculixx:kpaper:1.2.1")
 
     implementation("dev.jorel:commandapi-bukkit-shade:9.3.0")
-    implementation("dev.jorel:commandapi-bukkit-kotlin:9.3.0")
+    implementation("dev.jorel:commandapi-bukkit-kotlin:9.4.2")
 }
 
 java {
